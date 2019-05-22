@@ -1,7 +1,7 @@
 # Machine-Learning
 banknote_authenticity.ipynb - Implemented supervised machine learning algorithm K Nearest Neighbors Classifier to predict authenticity of banknotes with 100% quality. 
 
-digitrecognition.ipynb - Implemented Naive Bayes algorithm to classify the data among classes (0-9 ) 84.7% quality.
+digitrecognition.ipynb - Implemented Naive Bayes algorithm to classify the data among classes (0-9 ) 82.61% quality.
 
 iris.ipynb - Built Support Vector classification models by implementing linear, polynomial and rbf SVM's to identify the iris with 80%, 67% and 77% quality respectively.
 
