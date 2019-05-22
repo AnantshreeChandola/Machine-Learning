@@ -3,7 +3,7 @@ banknote_authenticity.ipynb - Implemented supervised machine learning algorithm 
 
 digitrecognition.ipynb - Implemented Naive Bayes algorithm to classify the data among classes (0-9 ) 82.61% quality.
 
-iris.ipynb - Built Support Vector classification models by implementing linear, polynomial and rbf SVM's to identify the iris with 80%, 67% and 77% quality respectively.
+iris.ipynb - Built Support Vector classification models by implementing linear, polynomial and rbf SVM's to identify the iris with 96.7%, 83.3% and 93.3% quality respectively.
 
 random forest.ipynb - Implemented Ensemble algorithm (Random Forest Classifier) to detect disease with 78% quality.
 
